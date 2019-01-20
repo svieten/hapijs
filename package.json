@@ -1,0 +1,23 @@
+{
+  "name": "hapijs",
+  "version": "1.0.0",
+  "description": "Exploring hapijs capabilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svieten/hapijs.git"
+  },
+  "keywords": [
+    "hapi",
+    "hapijs"
+  ],
+  "author": "Sean Vieten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/svieten/hapijs/issues"
+  },
+  "homepage": "https://github.com/svieten/hapijs#readme"
+}
