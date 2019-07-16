@@ -4,7 +4,8 @@
   "description": "Exploring hapijs capabilities",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/svieten/hapijs/issues"
   },
-  "homepage": "https://github.com/svieten/hapijs#readme"
+  "homepage": "https://github.com/svieten/hapijs#readme",
+  "dependencies": {
+    "hapi": "^18.0.0",
+    "hapi-pino": "^5.4.1",
+    "nodemon": "^1.18.10"
+  }
 }
